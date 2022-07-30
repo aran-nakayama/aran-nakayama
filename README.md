@@ -2,7 +2,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aran-nakayama)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aran-nakayama)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=aran-nakayama&layout=compact)
 
 <!--
 **aran-nakayama/aran-nakayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
